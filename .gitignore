@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
 /.quarto/
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+>>>>>>> 119ac7152fad971a662bfc0a0f41f655c2c69b67

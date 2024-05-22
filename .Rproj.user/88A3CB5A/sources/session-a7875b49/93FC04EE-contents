@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "DataScienceHW1"
 format: html
@@ -44,3 +45,51 @@ In the code chunk below, I utilized the plot() function to plot the object y. I 
 ```{r, echo=FALSE}
 plot(y)
 ```
+=======
+---
+title: "DataScienceHW1"
+format: html
+editor: visual
+---
+
+## Write Test
+
+**1. What do you think being a data scientist is about?**
+
+I believe that being a data scientist is about shaping data and identifying patterns and other insights from this data in order to support a wide variety of fields of study.
+
+**2. What differences/similarities do you see between data scientists and statisticians?**
+
+I believe that statistics is the foundation of data science. Therefore, I believe that statisticians do the 'behind-the-scenes' work first and then data scientists manipulate the data produced by statisticians to identify insights.
+
+**3. How do you view yourself in relation to these two areas?**
+
+I am an operations research analyst by trade, so I view my work as very similar to that of data scientists. I do not view myself as a statistician as I know that statistics is not my strongest area of expertise.
+
+## Code Test
+
+```{r}
+y <- density(iris$Sepal.Length)
+```
+
+```{r}
+# Determine the class of the object y
+class_y <- class(y)
+
+# Determine the type of the object y
+type_y <- typeof(y)
+
+# Determine the structure of the object y
+str(y)
+```
+
+## Markdown Test
+
+In the code chunk above, I utilized the class(), typeof(), and str() functions to, respectively, determine the class, type, and structure of the object y.
+
+In the code chunk below, I utilized the plot() function to plot the object y. I also set the echo chunk object to false in order to hide the R code in the final, documented output.
+
+```{r, echo=FALSE}
+plot(y)
+```
+>>>>>>> 119ac7152fad971a662bfc0a0f41f655c2c69b67
