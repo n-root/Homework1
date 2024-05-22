@@ -1,7 +1,7 @@
 {
     "id": "93FC04EE",
-    "path": "C:/Users/natal/Desktop/NCSU/summer 24/ST558/Repos/DataScienceHW1.qmd",
-    "project_path": null,
+    "path": "C:/Users/natal/Desktop/NCSU/summer 24/ST558/Repos/Homework1/DataScienceHW1.qmd",
+    "project_path": "DataScienceHW1.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -15,19 +15,19 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "32,0",
-        "scrollLine": "26",
+        "cursorPosition": "44,7",
+        "scrollLine": "36",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "898:843.3333129882812",
         "docOutlineSize": "87"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716352766,
+    "lastKnownWriteTime": 1716354448,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716352766134,
+    "last_content_update": 1716354448,
     "read_only": false,
     "read_only_alternatives": []
 }

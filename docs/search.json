@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "DataScienceHW1.html",
+    "href": "DataScienceHW1.html",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "1. What do you think being a data scientist is about?\nI believe that being a data scientist is about shaping data and identifying patterns and other insights from this data in order to support a wide variety of fields of study.\n2. What differences/similarities do you see between data scientists and statisticians?\nI believe that statistics is the foundation of data science. Therefore, I believe that statisticians do the ‘behind-the-scenes’ work first and then data scientists manipulate the data produced by statisticians to identify insights.\n3. How do you view yourself in relation to these two areas?\nI am an operations research analyst by trade, so I view my work as very similar to that of data scientists. I do not view myself as a statistician as I know that statistics is not my strongest area of expertise."
+  },
+  {
+    "objectID": "DataScienceHW1.html#write-test",
+    "href": "DataScienceHW1.html#write-test",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "1. What do you think being a data scientist is about?\nI believe that being a data scientist is about shaping data and identifying patterns and other insights from this data in order to support a wide variety of fields of study.\n2. What differences/similarities do you see between data scientists and statisticians?\nI believe that statistics is the foundation of data science. Therefore, I believe that statisticians do the ‘behind-the-scenes’ work first and then data scientists manipulate the data produced by statisticians to identify insights.\n3. How do you view yourself in relation to these two areas?\nI am an operations research analyst by trade, so I view my work as very similar to that of data scientists. I do not view myself as a statistician as I know that statistics is not my strongest area of expertise."
+  },
+  {
+    "objectID": "DataScienceHW1.html#code-test",
+    "href": "DataScienceHW1.html#code-test",
+    "title": "DataScienceHW1",
+    "section": "Code Test",
+    "text": "Code Test\n\ny &lt;- density(iris$Sepal.Length)\n\n\n# Determine the class of the object y\nclass_y &lt;- class(y)\n\n# Determine the type of the object y\ntype_y &lt;- typeof(y)\n\n# Determine the structure of the object y\nstr(y)\n\nList of 7\n $ x        : num [1:512] 3.48 3.49 3.5 3.51 3.52 ...\n $ y        : num [1:512] 0.000232 0.000262 0.000296 0.000333 0.000373 ...\n $ bw       : num 0.274\n $ n        : int 150\n $ call     : language density.default(x = iris$Sepal.Length)\n $ data.name: chr \"iris$Sepal.Length\"\n $ has.na   : logi FALSE\n - attr(*, \"class\")= chr \"density\""
+  },
+  {
+    "objectID": "DataScienceHW1.html#markdown-test",
+    "href": "DataScienceHW1.html#markdown-test",
+    "title": "DataScienceHW1",
+    "section": "Markdown Test",
+    "text": "Markdown Test\nIn the code chunk above, I utilized the class(), typeof(), and str() functions to, respectively, determine the class, type, and structure of the object y.\nIn the code chunk below, I utilized the plot() function to plot the object y. I also set the echo chunk object to false in order to hide the R code in the final, documented output."
+  }
+]
